@@ -1,9 +1,1 @@
-public class BovinoObrero {
-    public BovinoObrero() {
-
-    }
-
-    public int recolectar() {
-        return 0;
-    }
-}
+public class BovinoObrero extends Bovino implements Obrero {}

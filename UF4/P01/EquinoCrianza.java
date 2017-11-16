@@ -1,9 +1,1 @@
-public class EquinoCrianza {
-    public EquinoCrianza() {
-
-    }
-
-    public void EquinoCrianza() {
-
-    }
-}
+public class EquinoCrianza extends Equino implements Crianza {}

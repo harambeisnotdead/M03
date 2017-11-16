@@ -1,4 +1,4 @@
-public class Animal {
+public abstract class Animal {
     int hambre;
 
     public int comer() {

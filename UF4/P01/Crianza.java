@@ -1,5 +1,3 @@
-public class Crianza {
-    public void criar() {
-
-    }
+public interface Crianza {
+    default public void criar() {}
 }
