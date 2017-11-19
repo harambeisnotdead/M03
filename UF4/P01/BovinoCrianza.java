@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-public class BovinoCrianza extends Bovino implements Crianza {}
-=======
-public class BovinoCrianza {
+public class BovinoCrianza extends Bovino implements Crianza {
     public BovinoCrianza() {
-
-    }
-
-    public void criar() {
-
+        System.out.println("Soy crianza");
     }
 }
->>>>>>> 8bbb41b924a00b5b1888b02111518a0b4276f027
